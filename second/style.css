@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #F1F1F1;
+	width: 100%;
+}
+.box-1{
+	margin: 30px;
+	width: 60%;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+
+}
+
+.box-2{
+	margin: 30px;
+	width: 60%;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+
+}
+
+.click{
+	height: 50px;
+	width: 20%;
+	display: inline-block;
+	margin: 15px;
+	margin-top: 25%;
+	margin-left: 5%;
+}
+
+.blue{
+	background-color: #4A90E2;
+	margin-left: -1%;
+}
+.red{
+	background-color: #D50021;
+}
+
+.here{
+	
+	position: relative;
+	left: 20%;
+	top: 20%;
+	color: white;
+}
+.text-1{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 10%;
+	word-wrap: break-word;
+	width: 90%;
+	height: 5%;
+}
+.image{
+	margin-right: auto;
+	margin-left: auto;
+	width: 90%;
+	height: 60%;
+	position: relative;
+	top: 5%;
+	left: 10%;
+}
+.text-2{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: 10%;
+	word-wrap: break-word;
+	width: 90%;
+	height: 5%;
+}
+.bottom{
+	color: white;
+	width: 100%;
+	background-color: #4A4A4A;
+	height: 75px;
+	margin-top: 5%;
+}
+.text1{
+	float: right;
+	margin: 30px;
+	position: relative;
+	right: 8%;
+
+}
+.text2{
+	margin: 30px;
+	padding-left: 70%;
+ 	padding-top: 30px;
+}
