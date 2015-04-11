@@ -3,6 +3,17 @@
 	padding: 0;
 }
 
+body, html{
+	background-color: #D8D8D8;
+}
+
+.body{
+	background-color: white;
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
 .top{
 	
 	color: white;
@@ -24,7 +35,7 @@
 .title{
 	font-size: 56px;
 	padding-top: 2%;
-	margin-left: 6%;
+	margin-left: 4%;
 }
 .left{
 	word-wrap: break-word;
@@ -38,12 +49,12 @@
 	height: 350px;
 	width: 40%;
 	margin-left: 53%;
-	margin-top: -82%;
+	margin-top: -103%;
 }
 .right{
 	word-wrap: break-word;
 	width: 40%;
-	height: 50%px;
+	height: 50%;
 	margin: 3%;
 	margin-left: 53%;
 	padding-bottom: 1%;
@@ -52,5 +63,5 @@
 	width: 100%;
 	background-color: #343434;
 	height: 75px;
-	margin-top: 30%;
+	margin-top: 35%;
 }
